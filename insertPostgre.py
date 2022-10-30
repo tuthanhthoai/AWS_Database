@@ -1,4 +1,4 @@
-import insertUtil as ut
+import insert as ut
 import psycopg2
 
 
